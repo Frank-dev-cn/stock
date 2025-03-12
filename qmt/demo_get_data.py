@@ -13,7 +13,7 @@ from xtquant import xtdata
 import time
 
 # 设定一个标的列表
-code_list = ["000001.SZ"]
+code_list = ["000001.SZ", '600000.SH']
 # 设定获取数据的周期
 period = "1d"
 
